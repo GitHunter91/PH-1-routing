@@ -7,3 +7,8 @@ body {
 * > a + a {
   margin-left: 20px;
 }
+
+.big-bold{
+  font-size: large;
+  font-weight:bold;
+}
